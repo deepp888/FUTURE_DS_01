@@ -58,9 +58,6 @@ Role: **Data Analyst Intern**
 ## 🧑‍💻 Author
 **Deep Patel**  
 📍 IT Engineering Student | Data Analytics Enthusiast  
-🔗 LinkedIn: *(add your LinkedIn link here)*
-
----
 
 If you find this project helpful, ⭐ **Please Star the Repository!**  
 Suggestions & improvements are always welcome 😊
